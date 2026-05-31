@@ -106,11 +106,11 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/arjup28">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arjup28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/arju-p">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arju-p&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/arjup28">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjup28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/arju-p">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arju-p&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -119,7 +119,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=arjup28&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=arju-p&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -127,7 +127,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjup28&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arju-p&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -135,7 +135,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjup28&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=arju-p&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -164,7 +164,7 @@ print(me.motto())
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |---|---|---|
-| **[Malware Analysis & Reverse Engineering](https://github.com/arjup28)** | IDA Pro · Ghidra · x64dbg · Cuckoo Sandbox · PEStudio · PE Explorer | Analyzed **AsyncRAT** variant; **56/71** VirusTotal engine detections confirmed; mapped **9 MITRE ATT&CK** techniques; documented **10+ IOCs** in a full SOC-style incident report |
+| **[Malware Analysis & Reverse Engineering](https://github.com/arju-p)** | IDA Pro · Ghidra · x64dbg · Cuckoo Sandbox · PEStudio · PE Explorer | Analyzed **AsyncRAT** variant; **56/71** VirusTotal engine detections confirmed; mapped **9 MITRE ATT&CK** techniques; documented **10+ IOCs** in a full SOC-style incident report |
 
 </div>
 
